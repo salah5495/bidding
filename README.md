@@ -1,6 +1,6 @@
-# bidding
-# About: 
-     The Simple Online Bidding System is a simple PHP project that provides a bidding organization or company's possible buyers bid with others within a period of time.
+# bidding System 
+# About The Project: 
+     Bidding System is a simple PHP project that provides a bidding organization or company's possible buyers bid with others within a period of time.
 # Features
 ##  Admin side:
 * Login Page: The page where the system admin or management staff submit their system credentials to access the data and features of the system.

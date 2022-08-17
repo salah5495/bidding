@@ -4,6 +4,7 @@
 # Features
 ##  Admin side:
 * Login Page: The page where the system admin or management staff submit their system credentials to access the data and features of the system.
+* username: salah password: admin123
 * Home Page: The page where the system admin or redirected by default when logging into the system.
 * Category Page: The page where the product categories are a list and managed.
 * Products Page: The page where the system admin or staff manages the list of products for auction or bidding.
